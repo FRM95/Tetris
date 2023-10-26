@@ -1,6 +1,7 @@
 # Tetris solution
 
-Example of Tetris technical interview written in Python 3.11.
+Example of Tetris technical interview written in Python 3.11 founded in: https://www.youtube.com/watch?v=3UCZltG8iCY.
+
 This technical problem was not intended to create a complete game, it was created to demonstrate technical skills with data structures and loops.
 
 1. Initiate main.py file
